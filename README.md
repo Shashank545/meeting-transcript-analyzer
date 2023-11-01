@@ -76,7 +76,7 @@ More features coming soon! In the meantime, feel free to continue creating and a
 
 &nbsp; &nbsp;
 
-## References
+## References to read
 
 * [Zoom Transcript Compacter](https://github.com/lethain/vtt_compactor)
 * [TigerGraph documentation](https://docs.tigergraph.com/)
