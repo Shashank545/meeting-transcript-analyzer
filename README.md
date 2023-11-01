@@ -1,4 +1,4 @@
-# Transcript Analysis - Graph + NLP
+# Transcript Analysis Tool - Graph + NLP
 
 This program extracts insights from Zoom Meeting Transcripts (`.vtt`) using TigerGraph and NLTK.
 
